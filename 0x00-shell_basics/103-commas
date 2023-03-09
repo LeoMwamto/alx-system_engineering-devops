@@ -1,2 +1,2 @@
-#!bin/bash
-ls -la ./103-commas
+#!/bin/bash
+ls -amvp
