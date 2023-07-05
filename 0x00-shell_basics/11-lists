@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l -a /pwd/boot
+dir=&(pwd) ls -l -a
